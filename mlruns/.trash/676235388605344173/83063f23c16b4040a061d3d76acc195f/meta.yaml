@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/676235388605344173/83063f23c16b4040a061d3d76acc195f/artifacts
+deleted_time: 1758213697977
+end_time: 1758173862063
+entry_point_name: ''
+experiment_id: '676235388605344173'
+lifecycle_stage: deleted
+run_id: 83063f23c16b4040a061d3d76acc195f
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758173856728
+status: 3
+tags: []
+user_id: moeda

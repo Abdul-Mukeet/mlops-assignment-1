@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/676235388605344173/a4bc44428808445d95b9ac4a0cf917b2/artifacts
+deleted_time: 1758213697977
+end_time: 1758173844309
+entry_point_name: ''
+experiment_id: '676235388605344173'
+lifecycle_stage: deleted
+run_id: a4bc44428808445d95b9ac4a0cf917b2
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758173835191
+status: 3
+tags: []
+user_id: moeda

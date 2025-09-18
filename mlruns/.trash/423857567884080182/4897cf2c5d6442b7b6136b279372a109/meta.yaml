@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/moeda/mlops-assignment-1/src/../mlruns/423857567884080182/4897cf2c5d6442b7b6136b279372a109/artifacts
+deleted_time: 1758213374951
+end_time: 1758049448714
+entry_point_name: ''
+experiment_id: '423857567884080182'
+lifecycle_stage: deleted
+run_id: 4897cf2c5d6442b7b6136b279372a109
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758049447972
+status: 4
+tags: []
+user_id: moeda

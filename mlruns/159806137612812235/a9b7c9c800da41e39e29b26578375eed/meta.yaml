@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/159806137612812235/a9b7c9c800da41e39e29b26578375eed/artifacts
+end_time: 1758213641912
+entry_point_name: ''
+experiment_id: '159806137612812235'
+lifecycle_stage: active
+run_id: a9b7c9c800da41e39e29b26578375eed
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758213637141
+status: 3
+tags: []
+user_id: moeda
