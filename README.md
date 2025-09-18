@@ -124,10 +124,6 @@ Navigate to Models tab.
 then see your registered model (IrisBestModel).
 
 
-## Last Updated
-18 Sep 2025
-
-
 
 
 
